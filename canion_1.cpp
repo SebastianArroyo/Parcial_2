@@ -1,12 +1,8 @@
 #include "canion_1.h"
-#include <math.h>
-
-
 
 float canion_1::getXo() const
 {
     return Xo;
-
 }
 
 float canion_1::getYo() const

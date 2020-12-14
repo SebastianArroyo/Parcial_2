@@ -1,6 +1,8 @@
 #ifndef CANION_1_H
 #define CANION_1_H
 #define G 9.8
+#include <cmath>
+#include <math.h>
 
 class canion_1
 {
